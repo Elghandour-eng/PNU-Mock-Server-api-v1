@@ -1,0 +1,83 @@
+[
+  {
+    "id": "e1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6",
+    "type": "student",
+    "email": "john.doe@student.university.edu",
+    "displayName": "John Doe",
+    "phone": "123-456-7890",
+    "RecID": "S001",
+    "department": "Computer Science"
+  },
+  {
+    "id": "p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2",
+    "type": "staff",
+    "email": "jane.smith@university.edu",
+    "displayName": "Jane Smith",
+    "phone": "234-567-8901",
+    "RecID": "ST001",
+    "department": "Human Resources"
+  },
+  {
+    "id": "f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8",
+    "type": "contractor",
+    "email": "mike.jones@contractor.com",
+    "displayName": "Mike Jones",
+    "phone": "345-678-9012",
+    "RecID": "C001",
+    "department": "Facilities"
+  },
+  {
+    "id": "v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4",
+    "type": "student",
+    "email": "alice.williams@student.university.edu",
+    "displayName": "Alice Williams",
+    "phone": "456-789-0123",
+    "RecID": "S002",
+    "department": "Mathematics"
+  },
+  {
+    "id": "l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0",
+    "type": "staff",
+    "email": "robert.brown@university.edu",
+    "displayName": "Robert Brown",
+    "phone": "567-890-1234",
+    "RecID": "ST002",
+    "department": "Finance"
+  },
+  {
+    "id": "b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6",
+    "type": "contractor",
+    "email": "linda.green@contractor.com",
+    "displayName": "Linda Green",
+    "phone": "678-901-2345",
+    "RecID": "C002",
+    "department": "IT Support"
+  },
+  {
+    "id": "r7s8t9u0v1w2x3y4z5a6b7c8d9e0f1g2",
+    "type": "student",
+    "email": "david.johnson@student.university.edu",
+    "displayName": "David Johnson",
+    "phone": "789-012-3456",
+    "RecID": "S003",
+    "department": "Physics"
+  },
+  {
+    "id": "h3i4j5k6l7m8n9o0p1q2r3s4t5u6v7w8",
+    "type": "staff",
+    "email": "emily.davis@university.edu",
+    "displayName": "Emily Davis",
+    "phone": "890-123-4567",
+    "RecID": "ST003",
+    "department": "Marketing"
+  },
+  {
+    "id": "x9y0z1a2b3c4d5e6f7g8h9i0j1k2l3m4",
+    "type": "contractor",
+    "email": "chris.martin@contractor.com",
+    "displayName": "Chris Martin",
+    "phone": "901-234-5678",
+    "RecID": "C003",
+    "department": "Maintenance"
+  }
+]
